@@ -1,0 +1,10 @@
+{
+  "name": "database",
+  "version": "0.0.0",
+  "description": "Database tools",
+  "main": "index.js",
+  "repository": "https://github.com/Samsonium/websynth.git",
+  "author": "samsonium",
+  "license": "MIT",
+  "private": true
+}

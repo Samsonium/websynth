@@ -1,0 +1,11 @@
+/*
+
+# Dirs
+!/.github
+!/backend
+!/frontend
+
+# Files
+!/.gitignore
+!/package.json
+!/yarn.lock
