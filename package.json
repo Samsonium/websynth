@@ -1,8 +1,9 @@
 {
   "name": "websynth",
-  "scripts": {
-    "test": "yarn workspaces "
-  },
-  "workspaces": [],
+  "scripts": {},
+  "workspaces": [
+    "./frontend/*",
+    "./backend/*"
+  ],
   "private": true
 }
